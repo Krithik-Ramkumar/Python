@@ -36,7 +36,6 @@ if  operator in oper_list or operator in trig_list:
 else:
     print("Invalid Syntax. Enter a valid operator from our list or Enter a valid number.")
     print(oper_list)
-    print(trig_list)
     print("-" * 50)
     exit("Thanks for using my calculator")
 
