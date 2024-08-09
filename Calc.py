@@ -1,8 +1,6 @@
 
 import math
 
-oper_list = ["+", "-", "*", "x", "/", "**", "^"]
-
 class Calc:
 
     def operCheck():
