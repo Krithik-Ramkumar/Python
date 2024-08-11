@@ -3,12 +3,6 @@ import math
 
 class Calc:
 
-    def operCheck():
-        print("Invalid Syntax. Enter a valid operator from our list")
-        print(oper_list)
-        print(trig_list)
-
-
     def add(self,x, y):
         print(f"Answer: {x + y}")
 
