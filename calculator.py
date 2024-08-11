@@ -14,7 +14,7 @@ operator = str(input("Enter Operator: "))
 y = float(input("Enter Second Number: "))
 print("-" * 50)
 
-if  operator in oper_list or operator in trig_list:
+if  operator in oper_list:
     
     if operator == oper_list[0]:
         ArthFunction.add(x, y)
